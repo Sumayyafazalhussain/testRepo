@@ -1,0 +1,7 @@
+,,,,,,,
+Test Case ID,Test Case Description,Test Steps,Expected Result,Status,Severity Level,Assigned To,Remarks
+TC001,Validate Product Listing Page,Open product page > Verify products,Product displayed Correctly,Passed,Low,-,No issue Found
+TC002,Test API error Handling,Disconnect API > Refresh Page,Error Message Shown,Passed,Medium,-,Handled very Smartly
+TC003,Check Cart Funtionality,Add product to cart > Verify Cart Content,Cart Update are Expected,Passed,High,-,Its working properly
+TC004,Ensure Responsiveness on Mobile,Resize Browser window > Check Layout,Responsive layout working as intended,Passed,Medium,-,Work Properly
+TC005,Signup Page Functionality,Create Page > Verify and Check,Its working Perfectly,Passed,Medium,-,Work Perfect
